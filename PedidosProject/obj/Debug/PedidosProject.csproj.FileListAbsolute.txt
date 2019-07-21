@@ -1,0 +1,7 @@
+C:\Users\Mariano\source\repos\PedidosSolution\PedidosProject\bin\Debug\PedidosProject.exe.config
+C:\Users\Mariano\source\repos\PedidosSolution\PedidosProject\bin\Debug\PedidosProject.exe
+C:\Users\Mariano\source\repos\PedidosSolution\PedidosProject\bin\Debug\PedidosProject.pdb
+C:\Users\Mariano\source\repos\PedidosSolution\PedidosProject\obj\Debug\PedidosProject.csprojAssemblyReference.cache
+C:\Users\Mariano\source\repos\PedidosSolution\PedidosProject\obj\Debug\PedidosProject.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\source\repos\PedidosSolution\PedidosProject\obj\Debug\PedidosProject.exe
+C:\Users\Mariano\source\repos\PedidosSolution\PedidosProject\obj\Debug\PedidosProject.pdb
